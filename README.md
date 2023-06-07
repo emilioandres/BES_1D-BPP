@@ -24,3 +24,8 @@ $popSize$: The popSize is a parameter ranging from 1 to 40, allowing the algorit
 
 $maxIter$: It is a parameter related to the number of algorithm iterations. This parameter is set to 50, considering the execution times and the convergence speed of the algorithm.
 
+The results:
+![imagen](https://github.com/emilioandres/BES_1D-BPP/assets/20390219/4b67c4cb-237a-46ee-91d5-2418b334dd33)
+![imagen](https://github.com/emilioandres/BES_1D-BPP/assets/20390219/64fe9536-f6bd-4905-a084-7885876c7028)
+
+
