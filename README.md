@@ -27,7 +27,9 @@ $maxIter$: It is a parameter related to the number of algorithm iterations. This
 The results:
 
 
-![imagen](https://github.com/emilioandres/BES_1D-BPP/assets/20390219/1afc8332-a838-405b-ae02-6dc33b5dd35f)
+![imagen](https://github.com/emilioandres/BES_1D-BPP/assets/20390219/e5136564-8ca4-47e8-b2a5-a4ff7e59bf42)
+
+![imagen](https://github.com/emilioandres/BES_1D-BPP/assets/20390219/db11ea6d-144d-4991-95f0-b49cd8de4c25)
 
 
 
